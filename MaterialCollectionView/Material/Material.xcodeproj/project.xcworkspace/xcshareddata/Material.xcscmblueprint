@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "92CC0B44588F1DD5C6E64525A286E7AA95DAC381",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "92CC0B44588F1DD5C6E64525A286E7AA95DAC381" : 9223372036854775807,
+    "9CF35BC641478FBD765F7442D4034ED362261E0A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29C23F14-7CA3-45C0-A345-6691952F6746",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "92CC0B44588F1DD5C6E64525A286E7AA95DAC381" : "Code\/",
+    "9CF35BC641478FBD765F7442D4034ED362261E0A" : "Code\/material\/Material%20copy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Material",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "material\/Material\/Material.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/karthik6461\/idfyapp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92CC0B44588F1DD5C6E64525A286E7AA95DAC381"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CosmicMind\/Material",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CF35BC641478FBD765F7442D4034ED362261E0A"
+    }
+  ]
+}
